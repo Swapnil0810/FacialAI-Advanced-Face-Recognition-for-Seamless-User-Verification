@@ -1,0 +1,1 @@
+{"class_name": "PytorchONNXInferenceLearner", "module_name": "nebullvm.inference_learners.onnx", "network_parameters": {"batch_size": 1, "input_infos": [{"dtype": "float", "size": [3, 480, 640]}], "output_sizes": [[17640, 2], [17640, 4]], "dynamic_info": null}, "input_tfms": {"tfms": []}, "input_names": ["input_0"], "output_names": ["output_0", "output_1"]}
